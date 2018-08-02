@@ -119,4 +119,4 @@ var Shape = {
 };
 
 module.exports.definition = Shape;
-module.exports.Component = AFRAME.registerComponent('shape', Shape);
+module.exports.Component = AFRAME.registerComponent('physics-shape', Shape);
